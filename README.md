@@ -1,0 +1,1 @@
+Projeto realizado no DevMedia para a criação de um site para cafeteria com o intuito de adquirir habilidades relacionados ao posicionamento dos elementos utilizando o CSS position e o efeito parallax nas imagens de fundo.
